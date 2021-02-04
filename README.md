@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![cover](https://github.com/celineBayle/celineBayle/blob/main/img/cover.png)
 <!--
 **celineBayle/celineBayle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
