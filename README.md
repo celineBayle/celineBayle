@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm a frontend web developer
+## 📫 How to reach me: celine.bayle1705@gmail.com
+
 ![cover](https://github.com/celineBayle/celineBayle/blob/main/cover.jpg)
 <!--
 **celineBayle/celineBayle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
