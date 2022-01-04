@@ -2,8 +2,8 @@
 ##  <center> Freelance Web Developer from Aix-en-Provence (France)
 ### <center> 📫 Reach me on : [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celine-bayle-guitton/) [![Twitter Follow](https://img.shields.io/twitter/follow/celine1705?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fceline1705&screen_name=celine1705) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celine.bayle1705@gmail.com)
    
-<center> - 💻 I’m <img  alt="Javascript logo"  width="70px" 
-   src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">developer
+<center> - 💻 I code in <img  alt="Javascript logo"  width="70px" 
+   src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <center> - 🔭 I’m currently working on my portfolio  
 <center> - 🌱2022 Goals: Learn more <img  alt="typeScript logo"  width="70px"   
    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">and <img  alt="Three.js logo"  width="70px"    
