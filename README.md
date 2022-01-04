@@ -6,7 +6,7 @@
    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 - 🔭 I’m currently working on my portfolio  
 - 🌱2022 Goals: Learn more <img  alt="typeScript logo"  width="70px"   
-   src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">and <img  alt="Three.js logo"  width="70px"    
+   src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> and <img  alt="Three.js logo"  width="70px"    
    src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">        
 - 🔙 Before that , I was a nurse 💊  
 
